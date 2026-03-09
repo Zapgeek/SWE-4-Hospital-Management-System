@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1113" height="803" alt="image" src="https://github.com/user-attachments/assets/e1f0a491-575c-47f6-8a3d-0e60e9346189" />
 
 
 
@@ -59,6 +60,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1075" height="638" alt="image" src="https://github.com/user-attachments/assets/f0310bed-c827-48bb-bda0-3d61ff878365" />
 
 
 
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="927" height="653" alt="image" src="https://github.com/user-attachments/assets/272760f0-8894-40ae-a119-9b240a48d15d" />
 
 
 
@@ -79,6 +82,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="1095" height="809" alt="image" src="https://github.com/user-attachments/assets/16b2d437-9d85-4969-939c-fc113597059b" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="657" height="795" alt="image" src="https://github.com/user-attachments/assets/1584695f-71c6-49c0-9d24-c354762968cc" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1534" height="760" alt="image" src="https://github.com/user-attachments/assets/cb1aa837-714e-4b08-b983-b8c04838b7e4" />
 
 
 
