@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040239
+# Name:Pranav Bhargav M
+# Date: 26/02/26
 
 
 # AIM:
